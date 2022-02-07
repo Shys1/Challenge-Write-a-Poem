@@ -1,0 +1,47 @@
+body {
+    font-family: 'Dosis', sans-serif;
+    background-image: url("https://i.pinimg.com/236x/ff/f6/36/fff636042b107b1052c0ee4fae77015d.jpg");
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p, ul {
+    font-weight: bold;
+    background-color: white;
+    opacity: 0.8;
+}
+
+#Poem1, #Poem2 {
+    height: 80%;
+    width: 40%;
+    float:left;
+    margin-left: 2%;
+    margin-top: 8%;
+    padding: 20px;
+}
+
+#Poem1 {
+     border: double thick purple;
+    background-image:url("https://i.pinimg.com/564x/53/f8/22/53f822683e82bc077debbd8cae96e6cf.jpg");
+}
+
+#Poem2 {
+    border: double thick purple;
+    background-image:url("https://i.pinimg.com/564x/33/49/83/33498375cd8c90cb9b43842229ab7d4a.jpg");
+}
+
+#container {
+    width: 960px;
+    height: 1020px;
+    border: solid thick purple;
+    background-image:url("https://i.pinimg.com/236x/be/45/3f/be453fdcc7a758c2ff13f76af2bccfdc.jpg");
+    margin-left: auto;
+    margin-right: auto;
+ 
+}
